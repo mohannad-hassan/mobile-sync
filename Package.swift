@@ -23,8 +23,8 @@ let package = Package(
     ] : [
         .binaryTarget(
             name: "QuranSync",
-            url: "https://github.com/quran/mobile-sync/releases/download/{VERSION}/QuranSync.xcframework.zip",
-            checksum: "{CHECKSUM_TO_BE_REPLACED_BY_CI}"
+            url: "https://github.com/quran/mobile-sync/releases/download/v0.0.1/QuranSync.xcframework.zip",
+            checksum: "6aaa834a312792fb4b3c9a8783bd035cd91039ee93ac16e453723b4c7220b781"
         )
     ]
 )
